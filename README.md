@@ -4,6 +4,8 @@ The Book Store PHP and MySQL project is an online platform designed to enable us
 The project is built using the PHP programming language and MySQL database management system. It incorporates several features such as user registration and login, shopping cart functionality. The project also includes an admin panel that allows administrators to manage the book inventory, view sales reports, and manage customer accounts.
 The application uses a responsive design that is optimized for both desktop and mobile devices, providing a seamless user experience across all platforms. 
 Overall, the Book Store PHP and MySQL project is a comprehensive and practical solution for managing an online book store. It provides a powerful and user-friendly interface that enables customers to find and purchase their favorite books.
+
+
 Requirements
 To run the Online Book Store, you will need the following:
 Install Xampp 
